@@ -1,0 +1,2 @@
+./adc -fyeast.txt.h.tab -w0.01 -c4 -r80 -o1
+
