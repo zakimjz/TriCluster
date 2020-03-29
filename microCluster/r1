@@ -1,0 +1,5 @@
+#Usage: FILE  Width  Height  maxValue  minWidth  maxWidth  minHeight  maxHeight  numClus  eps  overlap_in
+clear
+./agrf datafile 20 50 100.0 5 7 8 12 5 0.01 0.50
+#./agrf datafile 30 3000 100.0 6 10 30 90 30 0.01 0.10
+#./agrf datafile 40 5000 1000.0 6 8 100 200 10 0 0.20
