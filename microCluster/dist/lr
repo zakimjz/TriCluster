@@ -1,3 +1,0 @@
-#./adc -fComplete_Dataset.txt.out -w0.09 -c10 -r700 -o123
-./adc -fComplete_Dataset.txt.out -w0.09 -c10 -r550 -u-1.0 -d1.0 -m1.0 -q
-

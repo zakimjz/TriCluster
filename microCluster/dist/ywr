@@ -1,3 +1,0 @@
-#./adc -fyeast.txt.w.tab -w0.05 -r8 -c230 -u-1.0 -o1
-./adc -fyeast.txt.w.tab -w0.01 -r4 -c80 -u-1.0 -o1
-
